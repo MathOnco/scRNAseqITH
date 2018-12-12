@@ -1,4 +1,4 @@
-# scRNAseq
+# scRNAseq ITH
 
 This repo contains the code and data for the paper: Leveraging single cell RNA sequencing experiments to model intra-tumor heterogeneity. Code is written in both R and Mathematica. 
 
