@@ -1,6 +1,10 @@
 # scRNAseq ITH
 
-This repo contains the code and data for the paper: Leveraging single-cell RNA sequencing experiments to model intratumor heterogeneity. Code is written in both R and Mathematica. 
+This repo contains the code, data, and supplemental information for the manuscript: 
+
+Ferrall-Fairbanks MC, Ball M, Padron E, and Altrock PM. [Leveraging single-cell RNA sequencing experiments to model intratumor heterogeneity](https://ascopubs.org/doi/full/10.1200/CCI.18.00074). JCO Clinical Cancer Informatics. (2019) doi:10.1200/CCI.18.00074
+
+Code is written in both R and Mathematica. 
 
 ## Getting Started
 
